@@ -53,5 +53,5 @@ Você pode aprender como instalar o node [aqui](https://nodejs.org/en/download/)
 - Após tudo pronto, coloque seu projeto em uma pasta pública em seu google drive ou em seu github e nos envie o link para que possamos avaliar o seu projeto.
 
 
-> __Obs¹: A documentação é muito importante. Atente-se a isto.__
-> __Obs²: NÃO é escopo do teste desenvolver qualquer página .html.__
+- __Obs¹: A documentação é muito importante. Atente-se a isto.__
+- __Obs²: NÃO é escopo do teste desenvolver qualquer página .html.__
