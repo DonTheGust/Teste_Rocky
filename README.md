@@ -1,5 +1,5 @@
-#__Teste_Rocky__
-Teste para vaga de Web Analytics da empresa Rocky.Monks
+# __Teste_Rocky__
+## Teste para vaga de Web Analytics da empresa Rocky.Monks
 
 ## __O Problema__
 Você é responsável por um software de gestão de estoque de produtos. Ao fazer uma alteração no sistema, uma rotina que não foi devidamente testada acabou quebrando todo o banco de dados. Por sorte, não houve perda completa dos dados, mas eles não estão mais no formato esperado pelo sistema. Sua missão nesse projeto é recuperar os dados e deixá-los no formato adequado novamente. Além disso, você precisará criar também alguns métodos para validação das correções.
@@ -47,10 +47,10 @@ Você pode aprender como instalar o node [aqui](https://nodejs.org/en/download/)
 - Um arquivo chamado ‘resolucao.js’ contendo o código fonte de toda a implementação. Não esqueça de referenciar trechos de código utilizados da internet.
 - Um arquivo chamado ‘saida.json’ contendo a resposta da execução do algoritmo.
 - Um documento em formato PDF contendo uma breve explicação do algoritmo como um todo. Você deve abordar os pontos:
-> Uma breve explicação de cada funcionalidade,
-> Tratamentos feitos no código para evitar bugs,
-> entre outras coisas que queira compartilhar.
+  - Uma breve explicação de cada funcionalidade,
+  - Tratamentos feitos no código para evitar bugs,
+  - entre outras coisas que queira compartilhar.
 - Após tudo pronto, coloque seu projeto em uma pasta pública em seu google drive ou em seu github e nos envie o link para que possamos avaliar o seu projeto.
 
-__Obs¹: A documentação é muito importante. Atente-se a isto.
-Obs²: NÃO é escopo do teste desenvolver qualquer página .html.__
+__Obs¹: A documentação é muito importante. Atente-se a isto.__
+__Obs²: NÃO é escopo do teste desenvolver qualquer página .html.__
